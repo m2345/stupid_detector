@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Stupid Detector</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_help">Help</string>
+    <string name="about">
+        TitlePush play and title the phone left and right.
+    </string>
+    <string name="line2">Right = not stupid</string>
+    <string name="line3"> Left = stupid</string>
+    <string name="notice">Turn up the volume on your device</string>
+</resources>
